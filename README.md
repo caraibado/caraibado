@@ -27,22 +27,6 @@
 <h1 align="center">Hello World!! 👋</h1>
 
 ###
----
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
 <h3 align="left">👩‍💻  Sobre Mim </h3>
 
 <p align="left">Bom dia, Boa tarde, Boa noite! <br> Meu nome é Lucas e espero que você esteja bem! <br> Sou um aluno de Ciência da Computação na UDF concluindo a faculdade, atualmente no semestre 5/8! 
@@ -51,16 +35,16 @@
 <details>
   <summary> ➕ Mais Sobre Mim </summary>
 
-  - 💬 Tenho 23 anos de idade, atualmente morando em Brasília. Meu conhecimento em inglês é intermediario e possuo experiência com SQL, Python, C++ e PHP.
+  - 💬 Tenho 23 anos de idade, atualmente morando em Brasília. Meu conhecimento em inglês é intermediário e possuo experiência com SQL, Python, C++ e PHP.
     
-  - ⚡ Meus principais hobbys são jogar, seja entre amigos ou até mesmo desconhecidos. Como também gosto de ler, principalmente mangás
+  - ⚡ Meus principais hobbys são jogar, seja entre amigos ou até mesmo desconhecidos. Como também gosto de ler, principalmente mangás.
 
-  - Também tenho bastante experiência na área de design, trabalhando com a maior parte das ferramentas da Adobe e da Microsoft!
+  - 🖌️ Também tenho bastante experiência na área de design, trabalhando com a maior parte das ferramentas da Adobe e da Microsoft!
 </details>
 
 ###
 
-<h3 align="left">🛠 Linguas e Ferramentas</h3>
+<h3 align="left">🖥️ Linguagens</h3>
 
 ###
 
@@ -73,11 +57,21 @@
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="40" alt="Python logo"  />
   <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" height="40" alt="c++ logo"  />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" height="40" alt="cs logo"  />
+  <img width="12" />  
+  <img width="12" />
+</div>
+
+###
+
+<h3 align="left">🛠 Ferramentas</h3>
+
+###
+
+<div align="left">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PyCharm-Dark.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" height="40" alt="PostgreSQL logo"  />
   <img width="12" />
@@ -90,15 +84,12 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" height="40" alt="illustrator logo"  />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AfterEffects.svg" height="40" alt="after logo"  />
-  <img width="12" />
+  <img width="12" /><br>
   <img src="https://github.com/sempostma/office365-icons/blob/master/png/256/word.png" height="40" alt="world logo"  />
   <img width="12" />
   <img src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png" height="40" alt="excel logo"  />
   <img width="12" />
   <img src="https://github.com/sempostma/office365-icons/blob/master/png/256/powerpoint.png" height="40" alt="powerpoint logo"  />
-  <img width="12" />
-  
-  
 </div>
 
 ###
@@ -113,4 +104,21 @@
 
 ###
 
+---
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</div>  
 
