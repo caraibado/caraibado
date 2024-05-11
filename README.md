@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"/>
 </div>
 
 ###
@@ -29,7 +29,7 @@
 ###
 <h3 align="left">👩‍💻  Sobre Mim </h3>
 
-<p align="left">Bom dia, Boa tarde, Boa noite! <br> Meu nome é Lucas e espero que você esteja bem! <br> Sou um aluno de Ciência da Computação na UDF concluindo a faculdade, atualmente no semestre 5/8! 
+<p align="left">Bom dia! <br> Meu nome é Lucas e espero que você esteja bem! <br> Sou um aluno de Ciência da Computação na UDF concluindo a faculdade, atualmente no semestre 5/8! 
   
 <!-- Dropdown -->
 <details>
@@ -57,10 +57,11 @@
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="40" alt="Python logo"  />
   <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" height="40" alt="c++ logo"  />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CPP.svg" height="40" alt="c++ logo"  />
   <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" height="40" alt="cs logo"  />
-  <img width="12" />  
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/C.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" height="40" alt="MYSQL logo"  />
   <img width="12" />
 </div>
 
@@ -90,6 +91,9 @@
   <img src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png" height="40" alt="excel logo"  />
   <img width="12" />
   <img src="https://github.com/sempostma/office365-icons/blob/master/png/256/powerpoint.png" height="40" alt="powerpoint logo"  />
+  <img width="12" />
+  <img src="https://logosmarcas.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Logo.png" height="30" alt="powerBI logo"  />
+
 </div>
 
 ###
